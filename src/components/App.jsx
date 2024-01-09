@@ -3,7 +3,7 @@ import './App.css';
 import 'react-toastify/dist/ReactToastify.css'
 
 //Router DOM
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 //Context
 
@@ -23,7 +23,7 @@ const App = () => {
   return (
     <>
    
-     <BrowserRouter>
+     <Router>
         
           <Navbar/>
           <Routes>
@@ -36,7 +36,7 @@ const App = () => {
         <ToastContainer/>
        
         
-      </BrowserRouter>
+      </Router>
      
     </>
   );
