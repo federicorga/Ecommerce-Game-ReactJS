@@ -10,7 +10,7 @@
     box-shadow: 0 0 7px 0 rgb(0 0 0 / 75%);
     overflow: hidden;
     padding: 13px 8px;
-    /* background: url(../img/fondoNavbar.png);*/
+    /* background: url(/img/fondoNavbar.png);*/
   }
   
   .liMenu {
