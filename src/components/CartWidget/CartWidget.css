@@ -15,7 +15,7 @@
   
   .iconCarrit {
     display: flex;
-    background: url("/img/carritoicono.png");
+    background: url("../../../public/img/carritoicono.png");
     background-size: cover;
     background-position: center;
     font-size: 18px;
