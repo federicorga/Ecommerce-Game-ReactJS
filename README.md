@@ -4,7 +4,7 @@
 
 _Tienda de Videojuegos REACT_
 
-- [Pagina de Tienda](https://federicorga.github.io/proyecto-tienda-reactjs/)
+- [Pagina de Tienda](https://ecommercegamereact.netlify.app/)
 
 
 
