@@ -1,0 +1,102 @@
+.titulo{
+  color: green;
+}
+
+.buttonMenu{
+  background: transparent;
+    border: none;
+
+}
+
+.btnCarritoCompra{
+  background: transparent;
+    border: none;
+
+}
+
+.card{
+  width: 68rem;
+  margin-top: 10px;
+}
+
+.cardio{
+  display: flex;
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cardProductos{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.card-img-top{
+  padding-top: 5px;
+}
+.g-0{   
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.textoA{
+  font-size: 1.2rem;
+}
+
+.textoB{
+  text-align: center;
+
+  color: #25de3c;
+
+}
+
+.tacho:hover{
+  transition: 0.5s;
+  transform: scale(1.2);
+}
+
+.tacho:active{
+  transition: 0.5s;
+  transform: scale(0.9);
+}
+
+.cardDark{
+  background-color:  rebeccapurple;
+}
+
+.cardBodyDark {
+  background-color: rebeccapurple;
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+.carritoVacioBox{
+  padding-top: 1rem;
+  height: 100px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.h1Dark{
+  color: white;
+}
+
+.h1White{
+  color: black;
+}
+
+.bg-secondary{
+  background-color: rebeccapurple !important;
+}
+.darkMode {
+  background-color:black;
+  color:gainsboro;
+  min-height: 50rem;
+}

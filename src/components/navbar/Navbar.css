@@ -1,0 +1,35 @@
+.myNav {
+    width: 100%;
+    background: #061433;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 20;
+    box-shadow: 0 0 7px 0 rgb(0 0 0 / 75%);
+    overflow: hidden;
+    padding: 13px 8px;
+    /* background: url(../img/fondoNavbar.png);*/
+  }
+  
+  .liMenu {
+    text-align: left;
+  }
+  
+  .myBtnMenu img{
+    filter: invert(100%);
+  -webkit-filter: invert(100%);
+  -moz-filter: invert(100%);
+  
+  }
+
+  .myBtnMenu :hover{
+    transition: 0.5s;
+    transform: scale(1.2);
+  }
+  
+  .myBtnMenu{
+    --bs-btn-bg: none;
+    --bs-btn-border-color: none;
+  }
